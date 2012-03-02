@@ -1,0 +1,4 @@
+category: Perl Database
+requires: perl perl-DBI
+sdesc: "XBase driver for the Perl DBI framework"
+ldesc: "XBase driver for the Perl DBI framework"
