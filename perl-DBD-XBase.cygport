@@ -2,8 +2,8 @@ CPAN_AUTHOR=janpaz
 inherit perl
 
 NAME="perl-DBD-XBase"
-VERSION=1.03
-RELEASE=2
+VERSION=1.05
+RELEASE=1
 CATEGORY="Perl"
 SUMMARY="XBase driver for the Perl DBI framework"
 DESCRIPTION="XBase driver for the Perl DBI framework"
